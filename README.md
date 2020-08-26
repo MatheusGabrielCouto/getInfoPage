@@ -1,4 +1,6 @@
 ## GetInfoPage
+Script that captures pages of sites and plays in html file by image src
+
 
 ## Images
 <h3>Instagram Image</h3>

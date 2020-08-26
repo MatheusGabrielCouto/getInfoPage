@@ -1,1 +1,10 @@
-<h1>Olá</h1>
+## GetInfoPage
+
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+<ul>
+<li>JavaScript</li>
+<li>Puppeteer</li>
+</ul>

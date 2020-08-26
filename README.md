@@ -1,5 +1,11 @@
 ## GetInfoPage
 
+## Images
+<h3>Instagram Image</h3>
+<img src="/github/instagram.png" width="300px">
+<h3>Instagram footprint image</h3>
+<img src="/github/page.png" width="500px">
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:

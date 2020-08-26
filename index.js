@@ -22,7 +22,7 @@ const fs = require('fs');
   //Escrevendo os dados em um arquivo local (JSON)
   fs.writeFile('instagram.json', JSON.stringify(imageList, null, 2), err => {
       if(err) throw new Error('something went wrong')
-
+ 
       console.log('well done')
   })
 
